@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">inclass3_Project</string>
+    <string name="txtTitleConsole">Console Demo</string>
+    <string name="txtHint">number of tickets</string>
+    <string name="txtPrompt">Concert Type</string>
+    <string name="txtBookConcert">Book Concert</string>
+    <string name="txImgConcert">ImgConcert</string>
+    <string name="txtViewResult">Result</string>
+    <string-array name="ConsoleTypes">
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Blues</item>
+    </string-array>
+</resources>

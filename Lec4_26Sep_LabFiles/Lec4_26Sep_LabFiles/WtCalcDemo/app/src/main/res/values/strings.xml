@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WtCalcDemo</string>
+    <string name="txtTitle">Weight Converter</string>
+    <string name="txtInputWtHint">Enter the input weight</string>
+    <string name="txtConvertWt">Convert Weight</string>
+    <string name="txtLbtoKg">Convert LB to KG</string>
+    <string name="txtKgtoLb">Convert KG to LB</string>
+</resources>
